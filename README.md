@@ -1,7 +1,3 @@
-Here's the updated README with the requested link included in Markdown format:
-
----
-
 # README
 
 ## Overview
