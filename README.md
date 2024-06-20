@@ -70,7 +70,3 @@ The research paper explores the practical applications and benefits of using BFl
 
 ### Summary
 The analysis demonstrates that while BF16 precision may slightly increase CPU time, it maintains comparable accuracy and reduces validation loss. These findings suggest that BF16 is an efficient alternative to FP32, offering significant computational benefits without sacrificing model performance.
-
----
-
-This README provides a comprehensive overview of the notebook's contents, the models compared, the BF16 research paper, and the final inferences, along with the link to the dataset used.
